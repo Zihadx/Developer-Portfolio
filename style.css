@@ -183,6 +183,19 @@ margin-bottom: 30px;
    background: #FFF8F3;
    padding: 130px 199px;
    margin-top: 50px;
+
+}
+form{
+     display: flex;
+     flex-direction: column;
+     
+    
+    }
+    .contact 
+
+
+a{
+text-decoration: none
 }
    .contact.last-heading{
     text-align: left;
