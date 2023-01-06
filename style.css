@@ -144,7 +144,9 @@ margin-bottom: 30px;
 .resume-item{
     margin-top: 30px;
     margin-bottom: 30px;
-   
+    border-top: 1px solid #D1D1D1;
+    
+    
      
 
 }
@@ -158,6 +160,7 @@ margin-bottom: 30px;
     font-weight: 700;
     color: #474747;
     margin-bottom: 10px;
+    padding-top: 10px;
 }
 .resume-sub{
     color: #757575;
@@ -167,9 +170,25 @@ margin-bottom: 30px;
 }
 .description{
     color: #757575;
+    
 
 }
 .resume-button{
     text-align: center;
     margin-top: 50px;
 }
+.contact{
+    display: flex;
+   gap: 100px;
+   background: #FFF8F3;
+   padding: 130px 199px;
+   margin-top: 50px;
+}
+   .contact.last-heading{
+    text-align: left;
+   }
+   
+
+  
+
+  
